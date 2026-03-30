@@ -1,16 +1,29 @@
 # Visualization
 Visualization
 
+# Visualization
+
 ## Cosine Similarity Results
 
-<p align="center">
-  <img src="Image/consine_PCA.jpg" alt="PCA" width="45%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="Image/consine_flexlora.jpg" alt="FlexLoRA" width="45%">
-</p>
-
-<p align="center">
-  <img src="Image/consine_ours.jpg" alt="Ours" width="45%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="Image/consine_zeropadding.jpg" alt="Zero Padding" width="45%">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="Image/consine_PCA.jpg" alt="PCA" width="300"><br>
+      <em>(a) PCA result</em>
+    </td>
+    <td align="center">
+      <img src="Image/consine_flexlora.jpg" alt="FlexLoRA" width="300"><br>
+      <em>(b) FlexLoRA result</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Image/consine_ours.jpg" alt="Ours" width="300"><br>
+      <em>(c) Ours</em>
+    </td>
+    <td align="center">
+      <img src="Image/consine_zeropadding.jpg" alt="Zero Padding" width="300"><br>
+      <em>(d) Zero-padding result</em>
+    </td>
+  </tr>
+</table>
