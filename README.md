@@ -1,14 +1,14 @@
 # Visualization
 Visualization
 
-## cosine_PCA
-![cosine_PCA](Image/consine_PCA.jpg)
+## Cosine Similarity Results
 
-## cosine_flexlora
-![cosine_flexlora](Image/consine_flexlora.jpg)
+<p align="center">
+  <img src="Image/consine_PCA.jpg" alt="PCA" width="45%">
+  <img src="Image/consine_flexlora.jpg" alt="FlexLoRA" width="45%">
+</p>
 
-## cosine_ours
-![cosine_ours](Image/consine_ours.jpg)
-
-## cosine_zeropadding
-![cosine_zeropadding](Image/consine_zeropadding.jpg)
+<p align="center">
+  <img src="Image/consine_ours.jpg" alt="Ours" width="45%">
+  <img src="Image/consine_zeropadding.jpg" alt="Zero Padding" width="45%">
+</p>
