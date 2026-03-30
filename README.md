@@ -1,8 +1,5 @@
 # Visualization
-Visualization
-
-# Visualization
-
+Cosine similarity visualisations further prove our method best resolves knowledge contamination and aggregation distortion.
 ## Cosine Similarity Results
 
 <table>
