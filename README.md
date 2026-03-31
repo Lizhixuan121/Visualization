@@ -1,5 +1,4 @@
 ## Cosine Similarity Results
-Cosine similarity visualisations further confirm our method best mitigates knowledge contamination and aggregation distortion. We will provide these for all baselines in the revision.
 <table>
   <tr>
     <td align="center">
