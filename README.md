@@ -1,5 +1,4 @@
 ## Cosine Similarity Results
-We will provide these for all baselines in the revision.
 <table>
   <tr>
     <td align="center">
