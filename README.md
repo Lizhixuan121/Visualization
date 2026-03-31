@@ -1,26 +1,24 @@
-# Visualization
-Cosine similarity visualisations further prove our method best resolves knowledge contamination and aggregation distortion.
 ## Cosine Similarity Results
-
+Cosine similarity visualisations further confirm our method best mitigates knowledge contamination and aggregation distortion. We will provide these for all baselines in the revision.
 <table>
   <tr>
     <td align="center">
       <img src="Image/consine_PCA.jpg" alt="PCA" width="300"><br>
-      <em>(a) PCA result</em>
+      <em></em>
     </td>
     <td align="center">
       <img src="Image/consine_flexlora.jpg" alt="FlexLoRA" width="300"><br>
-      <em>(b) FlexLoRA result</em>
+      <em></em>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="Image/consine_ours.jpg" alt="Ours" width="300"><br>
-      <em>(c) Ours</em>
+      <em></em>
     </td>
     <td align="center">
       <img src="Image/consine_zeropadding.jpg" alt="Zero Padding" width="300"><br>
-      <em>(d) Zero-padding result</em>
+      <em></em>
     </td>
   </tr>
 </table>
